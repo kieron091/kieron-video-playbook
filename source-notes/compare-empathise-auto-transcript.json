@@ -1,0 +1,1215 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.12,
+    "text": " which is a more effective way to talk to your child.",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.22,
+        "word": " which",
+        "probability": 0.18174616992473602
+      },
+      {
+        "start": 0.22,
+        "end": 0.4,
+        "word": " is",
+        "probability": 0.9846610426902771
+      },
+      {
+        "start": 0.4,
+        "end": 0.52,
+        "word": " a",
+        "probability": 0.9871361255645752
+      },
+      {
+        "start": 0.52,
+        "end": 0.66,
+        "word": " more",
+        "probability": 0.9916879534721375
+      },
+      {
+        "start": 0.66,
+        "end": 0.92,
+        "word": " effective",
+        "probability": 0.9823436737060547
+      },
+      {
+        "start": 0.92,
+        "end": 1.26,
+        "word": " way",
+        "probability": 0.9967857599258423
+      },
+      {
+        "start": 1.26,
+        "end": 1.42,
+        "word": " to",
+        "probability": 0.9912689924240112
+      },
+      {
+        "start": 1.42,
+        "end": 1.6,
+        "word": " talk",
+        "probability": 0.9916811585426331
+      },
+      {
+        "start": 1.6,
+        "end": 1.72,
+        "word": " to",
+        "probability": 0.9935802221298218
+      },
+      {
+        "start": 1.72,
+        "end": 1.84,
+        "word": " your",
+        "probability": 0.9780547022819519
+      },
+      {
+        "start": 1.84,
+        "end": 2.12,
+        "word": " child.",
+        "probability": 0.9960103034973145
+      }
+    ]
+  },
+  {
+    "start": 2.44,
+    "end": 4.96,
+    "text": " Stop yelling or can you make your voice match man?",
+    "words": [
+      {
+        "start": 2.44,
+        "end": 2.7,
+        "word": " Stop",
+        "probability": 0.9035218954086304
+      },
+      {
+        "start": 2.7,
+        "end": 2.94,
+        "word": " yelling",
+        "probability": 0.993381142616272
+      },
+      {
+        "start": 2.94,
+        "end": 3.46,
+        "word": " or",
+        "probability": 0.6832462549209595
+      },
+      {
+        "start": 3.46,
+        "end": 3.82,
+        "word": " can",
+        "probability": 0.9125407338142395
+      },
+      {
+        "start": 3.82,
+        "end": 3.96,
+        "word": " you",
+        "probability": 0.9949605464935303
+      },
+      {
+        "start": 3.96,
+        "end": 4.1,
+        "word": " make",
+        "probability": 0.9988304972648621
+      },
+      {
+        "start": 4.1,
+        "end": 4.24,
+        "word": " your",
+        "probability": 0.5995753407478333
+      },
+      {
+        "start": 4.24,
+        "end": 4.46,
+        "word": " voice",
+        "probability": 0.9975737929344177
+      },
+      {
+        "start": 4.46,
+        "end": 4.7,
+        "word": " match",
+        "probability": 0.9403582811355591
+      },
+      {
+        "start": 4.7,
+        "end": 4.96,
+        "word": " man?",
+        "probability": 0.4514176845550537
+      }
+    ]
+  },
+  {
+    "start": 5.32,
+    "end": 6.62,
+    "text": " No more snacks we're done eating",
+    "words": [
+      {
+        "start": 5.32,
+        "end": 5.5,
+        "word": " No",
+        "probability": 0.8331620693206787
+      },
+      {
+        "start": 5.5,
+        "end": 5.7,
+        "word": " more",
+        "probability": 0.9948104619979858
+      },
+      {
+        "start": 5.7,
+        "end": 5.9,
+        "word": " snacks",
+        "probability": 0.9893882274627686
+      },
+      {
+        "start": 5.9,
+        "end": 6.22,
+        "word": " we're",
+        "probability": 0.815052330493927
+      },
+      {
+        "start": 6.22,
+        "end": 6.34,
+        "word": " done",
+        "probability": 0.9834852814674377
+      },
+      {
+        "start": 6.34,
+        "end": 6.62,
+        "word": " eating",
+        "probability": 0.9833377003669739
+      }
+    ]
+  },
+  {
+    "start": 6.62,
+    "end": 9.3,
+    "text": " or snack time's over, shall we wash up now?",
+    "words": [
+      {
+        "start": 6.62,
+        "end": 7.28,
+        "word": " or",
+        "probability": 0.8937428593635559
+      },
+      {
+        "start": 7.28,
+        "end": 7.9,
+        "word": " snack",
+        "probability": 0.5405681133270264
+      },
+      {
+        "start": 7.9,
+        "end": 8.26,
+        "word": " time's",
+        "probability": 0.34722813963890076
+      },
+      {
+        "start": 8.26,
+        "end": 8.38,
+        "word": " over,",
+        "probability": 0.9947422742843628
+      },
+      {
+        "start": 8.56,
+        "end": 8.66,
+        "word": " shall",
+        "probability": 0.8183366060256958
+      },
+      {
+        "start": 8.66,
+        "end": 8.8,
+        "word": " we",
+        "probability": 0.9984757304191589
+      },
+      {
+        "start": 8.8,
+        "end": 8.94,
+        "word": " wash",
+        "probability": 0.7464114427566528
+      },
+      {
+        "start": 8.94,
+        "end": 9.1,
+        "word": " up",
+        "probability": 0.7749295830726624
+      },
+      {
+        "start": 9.1,
+        "end": 9.3,
+        "word": " now?",
+        "probability": 0.9886875152587891
+      }
+    ]
+  },
+  {
+    "start": 9.5,
+    "end": 12.0,
+    "text": " Don't climb on the table or feet on the floor please.",
+    "words": [
+      {
+        "start": 9.5,
+        "end": 9.64,
+        "word": " Don't",
+        "probability": 0.9525532722473145
+      },
+      {
+        "start": 9.64,
+        "end": 9.78,
+        "word": " climb",
+        "probability": 0.9512449502944946
+      },
+      {
+        "start": 9.78,
+        "end": 9.96,
+        "word": " on",
+        "probability": 0.9850988388061523
+      },
+      {
+        "start": 9.96,
+        "end": 10.06,
+        "word": " the",
+        "probability": 0.9191959500312805
+      },
+      {
+        "start": 10.06,
+        "end": 10.3,
+        "word": " table",
+        "probability": 0.9982176423072815
+      },
+      {
+        "start": 10.3,
+        "end": 10.84,
+        "word": " or",
+        "probability": 0.9233447313308716
+      },
+      {
+        "start": 10.84,
+        "end": 11.34,
+        "word": " feet",
+        "probability": 0.6819882988929749
+      },
+      {
+        "start": 11.34,
+        "end": 11.5,
+        "word": " on",
+        "probability": 0.9951145648956299
+      },
+      {
+        "start": 11.5,
+        "end": 11.58,
+        "word": " the",
+        "probability": 0.9802815318107605
+      },
+      {
+        "start": 11.58,
+        "end": 11.8,
+        "word": " floor",
+        "probability": 0.9996887445449829
+      },
+      {
+        "start": 11.8,
+        "end": 12.0,
+        "word": " please.",
+        "probability": 0.8797517418861389
+      }
+    ]
+  },
+  {
+    "start": 12.34,
+    "end": 14.38,
+    "text": " I know a lot of us didn't grow up with this type of language",
+    "words": [
+      {
+        "start": 12.34,
+        "end": 12.34,
+        "word": " I",
+        "probability": 0.6885161995887756
+      },
+      {
+        "start": 12.34,
+        "end": 12.58,
+        "word": " know",
+        "probability": 0.9965963959693909
+      },
+      {
+        "start": 12.58,
+        "end": 12.68,
+        "word": " a",
+        "probability": 0.9855254292488098
+      },
+      {
+        "start": 12.68,
+        "end": 12.78,
+        "word": " lot",
+        "probability": 0.9981239438056946
+      },
+      {
+        "start": 12.78,
+        "end": 12.88,
+        "word": " of",
+        "probability": 0.9977673292160034
+      },
+      {
+        "start": 12.88,
+        "end": 13.02,
+        "word": " us",
+        "probability": 0.9916248917579651
+      },
+      {
+        "start": 13.02,
+        "end": 13.24,
+        "word": " didn't",
+        "probability": 0.9824917316436768
+      },
+      {
+        "start": 13.24,
+        "end": 13.36,
+        "word": " grow",
+        "probability": 0.9506922364234924
+      },
+      {
+        "start": 13.36,
+        "end": 13.52,
+        "word": " up",
+        "probability": 0.9635229110717773
+      },
+      {
+        "start": 13.52,
+        "end": 13.64,
+        "word": " with",
+        "probability": 0.990312933921814
+      },
+      {
+        "start": 13.64,
+        "end": 13.76,
+        "word": " this",
+        "probability": 0.9952282905578613
+      },
+      {
+        "start": 13.76,
+        "end": 14.02,
+        "word": " type",
+        "probability": 0.9978243112564087
+      },
+      {
+        "start": 14.02,
+        "end": 14.16,
+        "word": " of",
+        "probability": 0.995613694190979
+      },
+      {
+        "start": 14.16,
+        "end": 14.38,
+        "word": " language",
+        "probability": 0.99680495262146
+      }
+    ]
+  },
+  {
+    "start": 14.38,
+    "end": 16.74,
+    "text": " so it can be really hard to talk to your kids in this way.",
+    "words": [
+      {
+        "start": 14.38,
+        "end": 14.66,
+        "word": " so",
+        "probability": 0.6653668284416199
+      },
+      {
+        "start": 14.66,
+        "end": 14.86,
+        "word": " it",
+        "probability": 0.9856230020523071
+      },
+      {
+        "start": 14.86,
+        "end": 15.0,
+        "word": " can",
+        "probability": 0.9962978959083557
+      },
+      {
+        "start": 15.0,
+        "end": 15.16,
+        "word": " be",
+        "probability": 0.9883239269256592
+      },
+      {
+        "start": 15.16,
+        "end": 15.3,
+        "word": " really",
+        "probability": 0.98328697681427
+      },
+      {
+        "start": 15.3,
+        "end": 15.62,
+        "word": " hard",
+        "probability": 0.9940860271453857
+      },
+      {
+        "start": 15.62,
+        "end": 15.76,
+        "word": " to",
+        "probability": 0.99680495262146
+      },
+      {
+        "start": 15.76,
+        "end": 15.94,
+        "word": " talk",
+        "probability": 0.9951601624488831
+      },
+      {
+        "start": 15.94,
+        "end": 16.04,
+        "word": " to",
+        "probability": 0.9954397678375244
+      },
+      {
+        "start": 16.04,
+        "end": 16.14,
+        "word": " your",
+        "probability": 0.9338586926460266
+      },
+      {
+        "start": 16.14,
+        "end": 16.32,
+        "word": " kids",
+        "probability": 0.9898590445518494
+      },
+      {
+        "start": 16.32,
+        "end": 16.44,
+        "word": " in",
+        "probability": 0.9863846898078918
+      },
+      {
+        "start": 16.44,
+        "end": 16.56,
+        "word": " this",
+        "probability": 0.9959346055984497
+      },
+      {
+        "start": 16.56,
+        "end": 16.74,
+        "word": " way.",
+        "probability": 0.9992457628250122
+      }
+    ]
+  },
+  {
+    "start": 16.96,
+    "end": 19.24,
+    "text": " So many of us are trying to do better and it's never too late.",
+    "words": [
+      {
+        "start": 16.96,
+        "end": 17.02,
+        "word": " So",
+        "probability": 0.9735800623893738
+      },
+      {
+        "start": 17.02,
+        "end": 17.22,
+        "word": " many",
+        "probability": 0.9854499101638794
+      },
+      {
+        "start": 17.22,
+        "end": 17.4,
+        "word": " of",
+        "probability": 0.9974926710128784
+      },
+      {
+        "start": 17.4,
+        "end": 17.5,
+        "word": " us",
+        "probability": 0.9977669715881348
+      },
+      {
+        "start": 17.5,
+        "end": 17.64,
+        "word": " are",
+        "probability": 0.9939113855361938
+      },
+      {
+        "start": 17.64,
+        "end": 17.78,
+        "word": " trying",
+        "probability": 0.9825032949447632
+      },
+      {
+        "start": 17.78,
+        "end": 17.92,
+        "word": " to",
+        "probability": 0.9962126016616821
+      },
+      {
+        "start": 17.92,
+        "end": 18.04,
+        "word": " do",
+        "probability": 0.994155764579773
+      },
+      {
+        "start": 18.04,
+        "end": 18.2,
+        "word": " better",
+        "probability": 0.9971556663513184
+      },
+      {
+        "start": 18.2,
+        "end": 18.6,
+        "word": " and",
+        "probability": 0.9250187873840332
+      },
+      {
+        "start": 18.6,
+        "end": 18.7,
+        "word": " it's",
+        "probability": 0.9870083332061768
+      },
+      {
+        "start": 18.7,
+        "end": 18.9,
+        "word": " never",
+        "probability": 0.9967317581176758
+      },
+      {
+        "start": 18.9,
+        "end": 19.1,
+        "word": " too",
+        "probability": 0.9933377504348755
+      },
+      {
+        "start": 19.1,
+        "end": 19.24,
+        "word": " late.",
+        "probability": 0.998583197593689
+      }
+    ]
+  },
+  {
+    "start": 19.4,
+    "end": 20.96,
+    "text": " So I'm gonna show you something that's been helping me",
+    "words": [
+      {
+        "start": 19.4,
+        "end": 19.46,
+        "word": " So",
+        "probability": 0.9573078155517578
+      },
+      {
+        "start": 19.46,
+        "end": 19.54,
+        "word": " I'm",
+        "probability": 0.9680304229259491
+      },
+      {
+        "start": 19.54,
+        "end": 19.66,
+        "word": " gonna",
+        "probability": 0.4552256166934967
+      },
+      {
+        "start": 19.66,
+        "end": 19.88,
+        "word": " show",
+        "probability": 0.9980573058128357
+      },
+      {
+        "start": 19.88,
+        "end": 19.96,
+        "word": " you",
+        "probability": 0.9908602237701416
+      },
+      {
+        "start": 19.96,
+        "end": 20.14,
+        "word": " something",
+        "probability": 0.9970986843109131
+      },
+      {
+        "start": 20.14,
+        "end": 20.36,
+        "word": " that's",
+        "probability": 0.9912837743759155
+      },
+      {
+        "start": 20.36,
+        "end": 20.5,
+        "word": " been",
+        "probability": 0.9953321814537048
+      },
+      {
+        "start": 20.5,
+        "end": 20.7,
+        "word": " helping",
+        "probability": 0.9985209107398987
+      },
+      {
+        "start": 20.7,
+        "end": 20.96,
+        "word": " me",
+        "probability": 0.9891631603240967
+      }
+    ]
+  },
+  {
+    "start": 20.96,
+    "end": 23.3,
+    "text": " to learn how to raise emotionally intelligent children.",
+    "words": [
+      {
+        "start": 20.96,
+        "end": 21.08,
+        "word": " to",
+        "probability": 0.9763754606246948
+      },
+      {
+        "start": 21.08,
+        "end": 21.24,
+        "word": " learn",
+        "probability": 0.9986709356307983
+      },
+      {
+        "start": 21.24,
+        "end": 21.54,
+        "word": " how",
+        "probability": 0.9690197110176086
+      },
+      {
+        "start": 21.54,
+        "end": 21.76,
+        "word": " to",
+        "probability": 0.9987277388572693
+      },
+      {
+        "start": 21.76,
+        "end": 21.98,
+        "word": " raise",
+        "probability": 0.9105050563812256
+      },
+      {
+        "start": 21.98,
+        "end": 22.24,
+        "word": " emotionally",
+        "probability": 0.987920880317688
+      },
+      {
+        "start": 22.24,
+        "end": 22.7,
+        "word": " intelligent",
+        "probability": 0.9653542637825012
+      },
+      {
+        "start": 22.7,
+        "end": 23.3,
+        "word": " children.",
+        "probability": 0.9991546869277954
+      }
+    ]
+  },
+  {
+    "start": 23.44,
+    "end": 25.44,
+    "text": " This book, Tiny Humans, Big Emotions,",
+    "words": [
+      {
+        "start": 23.44,
+        "end": 23.6,
+        "word": " This",
+        "probability": 0.9686452150344849
+      },
+      {
+        "start": 23.6,
+        "end": 23.84,
+        "word": " book,",
+        "probability": 0.9779434204101562
+      },
+      {
+        "start": 23.96,
+        "end": 24.18,
+        "word": " Tiny",
+        "probability": 0.6021475791931152
+      },
+      {
+        "start": 24.18,
+        "end": 24.64,
+        "word": " Humans,",
+        "probability": 0.7871464490890503
+      },
+      {
+        "start": 24.94,
+        "end": 25.06,
+        "word": " Big",
+        "probability": 0.9818238615989685
+      },
+      {
+        "start": 25.06,
+        "end": 25.44,
+        "word": " Emotions,",
+        "probability": 0.9112085103988647
+      }
+    ]
+  },
+  {
+    "start": 25.72,
+    "end": 27.3,
+    "text": " How to Navigate Tantrums, Meltdowns",
+    "words": [
+      {
+        "start": 25.72,
+        "end": 25.8,
+        "word": " How",
+        "probability": 0.7080972194671631
+      },
+      {
+        "start": 25.8,
+        "end": 25.94,
+        "word": " to",
+        "probability": 0.7605640888214111
+      },
+      {
+        "start": 25.94,
+        "end": 26.28,
+        "word": " Navigate",
+        "probability": 0.8825688660144806
+      },
+      {
+        "start": 26.28,
+        "end": 26.8,
+        "word": " Tantrums,",
+        "probability": 0.9193844795227051
+      },
+      {
+        "start": 27.0,
+        "end": 27.3,
+        "word": " Meltdowns",
+        "probability": 0.9719672203063965
+      }
+    ]
+  },
+  {
+    "start": 27.3,
+    "end": 29.64,
+    "text": " and Defiance to Raise Emotionally Intelligent Children.",
+    "words": [
+      {
+        "start": 27.3,
+        "end": 27.62,
+        "word": " and",
+        "probability": 0.705712616443634
+      },
+      {
+        "start": 27.62,
+        "end": 27.94,
+        "word": " Defiance",
+        "probability": 0.9733510613441467
+      },
+      {
+        "start": 27.94,
+        "end": 28.16,
+        "word": " to",
+        "probability": 0.9071095585823059
+      },
+      {
+        "start": 28.16,
+        "end": 28.32,
+        "word": " Raise",
+        "probability": 0.7523314952850342
+      },
+      {
+        "start": 28.32,
+        "end": 28.92,
+        "word": " Emotionally",
+        "probability": 0.9468055566151937
+      },
+      {
+        "start": 28.92,
+        "end": 29.06,
+        "word": " Intelligent",
+        "probability": 0.7507581114768982
+      },
+      {
+        "start": 29.06,
+        "end": 29.64,
+        "word": " Children.",
+        "probability": 0.9951900243759155
+      }
+    ]
+  },
+  {
+    "start": 29.64,
+    "end": 31.1,
+    "text": " Parents have been raving about this.",
+    "words": [
+      {
+        "start": 29.64,
+        "end": 30.04,
+        "word": " Parents",
+        "probability": 0.054815907031297684
+      },
+      {
+        "start": 30.04,
+        "end": 30.22,
+        "word": " have",
+        "probability": 0.9725795984268188
+      },
+      {
+        "start": 30.22,
+        "end": 30.38,
+        "word": " been",
+        "probability": 0.9988073110580444
+      },
+      {
+        "start": 30.38,
+        "end": 30.64,
+        "word": " raving",
+        "probability": 0.9840101897716522
+      },
+      {
+        "start": 30.64,
+        "end": 30.94,
+        "word": " about",
+        "probability": 0.9941447377204895
+      },
+      {
+        "start": 30.94,
+        "end": 31.1,
+        "word": " this.",
+        "probability": 0.9770205020904541
+      }
+    ]
+  },
+  {
+    "start": 31.28,
+    "end": 32.92,
+    "text": " Look at all the chapters that they teach you about.",
+    "words": [
+      {
+        "start": 31.28,
+        "end": 31.32,
+        "word": " Look",
+        "probability": 0.993160605430603
+      },
+      {
+        "start": 31.32,
+        "end": 31.42,
+        "word": " at",
+        "probability": 0.7675403952598572
+      },
+      {
+        "start": 31.42,
+        "end": 31.52,
+        "word": " all",
+        "probability": 0.9267869591712952
+      },
+      {
+        "start": 31.52,
+        "end": 31.64,
+        "word": " the",
+        "probability": 0.9897026419639587
+      },
+      {
+        "start": 31.64,
+        "end": 31.88,
+        "word": " chapters",
+        "probability": 0.9988388419151306
+      },
+      {
+        "start": 31.88,
+        "end": 32.22,
+        "word": " that",
+        "probability": 0.9714922308921814
+      },
+      {
+        "start": 32.22,
+        "end": 32.36,
+        "word": " they",
+        "probability": 0.9979320764541626
+      },
+      {
+        "start": 32.36,
+        "end": 32.52,
+        "word": " teach",
+        "probability": 0.9929965138435364
+      },
+      {
+        "start": 32.52,
+        "end": 32.7,
+        "word": " you",
+        "probability": 0.9878506064414978
+      },
+      {
+        "start": 32.7,
+        "end": 32.92,
+        "word": " about.",
+        "probability": 0.996039867401123
+      }
+    ]
+  },
+  {
+    "start": 33.2,
+    "end": 34.64,
+    "text": " And it has a pretty good number of pages",
+    "words": [
+      {
+        "start": 33.2,
+        "end": 33.26,
+        "word": " And",
+        "probability": 0.9083471894264221
+      },
+      {
+        "start": 33.26,
+        "end": 33.32,
+        "word": " it",
+        "probability": 0.9932617545127869
+      },
+      {
+        "start": 33.32,
+        "end": 33.44,
+        "word": " has",
+        "probability": 0.9985514283180237
+      },
+      {
+        "start": 33.44,
+        "end": 33.56,
+        "word": " a",
+        "probability": 0.9970501661300659
+      },
+      {
+        "start": 33.56,
+        "end": 33.82,
+        "word": " pretty",
+        "probability": 0.9986554384231567
+      },
+      {
+        "start": 33.82,
+        "end": 34.02,
+        "word": " good",
+        "probability": 0.9988322854042053
+      },
+      {
+        "start": 34.02,
+        "end": 34.28,
+        "word": " number",
+        "probability": 0.9987953901290894
+      },
+      {
+        "start": 34.28,
+        "end": 34.42,
+        "word": " of",
+        "probability": 0.9987422823905945
+      },
+      {
+        "start": 34.42,
+        "end": 34.64,
+        "word": " pages",
+        "probability": 0.9958778619766235
+      }
+    ]
+  },
+  {
+    "start": 34.64,
+    "end": 35.98,
+    "text": " so you're really gonna learn a lot.",
+    "words": [
+      {
+        "start": 34.64,
+        "end": 34.92,
+        "word": " so",
+        "probability": 0.20174236595630646
+      },
+      {
+        "start": 34.92,
+        "end": 35.06,
+        "word": " you're",
+        "probability": 0.9862255156040192
+      },
+      {
+        "start": 35.06,
+        "end": 35.24,
+        "word": " really",
+        "probability": 0.9979310035705566
+      },
+      {
+        "start": 35.24,
+        "end": 35.48,
+        "word": " gonna",
+        "probability": 0.5175302028656006
+      },
+      {
+        "start": 35.48,
+        "end": 35.7,
+        "word": " learn",
+        "probability": 0.9979041814804077
+      },
+      {
+        "start": 35.7,
+        "end": 35.82,
+        "word": " a",
+        "probability": 0.9975776076316833
+      },
+      {
+        "start": 35.82,
+        "end": 35.98,
+        "word": " lot.",
+        "probability": 0.9905499815940857
+      }
+    ]
+  },
+  {
+    "start": 36.22,
+    "end": 38.66,
+    "text": " I love that parents nowadays are really trying to do something different",
+    "words": [
+      {
+        "start": 36.22,
+        "end": 36.26,
+        "word": " I",
+        "probability": 0.9603334665298462
+      },
+      {
+        "start": 36.26,
+        "end": 36.42,
+        "word": " love",
+        "probability": 0.990789532661438
+      },
+      {
+        "start": 36.42,
+        "end": 36.6,
+        "word": " that",
+        "probability": 0.997218132019043
+      },
+      {
+        "start": 36.6,
+        "end": 36.88,
+        "word": " parents",
+        "probability": 0.5770835876464844
+      },
+      {
+        "start": 36.88,
+        "end": 37.18,
+        "word": " nowadays",
+        "probability": 0.9590355157852173
+      },
+      {
+        "start": 37.18,
+        "end": 37.46,
+        "word": " are",
+        "probability": 0.8982307314872742
+      },
+      {
+        "start": 37.46,
+        "end": 37.7,
+        "word": " really",
+        "probability": 0.9944303631782532
+      },
+      {
+        "start": 37.7,
+        "end": 37.9,
+        "word": " trying",
+        "probability": 0.9923215508460999
+      },
+      {
+        "start": 37.9,
+        "end": 38.0,
+        "word": " to",
+        "probability": 0.997372031211853
+      },
+      {
+        "start": 38.0,
+        "end": 38.12,
+        "word": " do",
+        "probability": 0.9970409274101257
+      },
+      {
+        "start": 38.12,
+        "end": 38.28,
+        "word": " something",
+        "probability": 0.9993659853935242
+      },
+      {
+        "start": 38.28,
+        "end": 38.66,
+        "word": " different",
+        "probability": 0.9981949925422668
+      }
+    ]
+  },
+  {
+    "start": 38.66,
+    "end": 40.34,
+    "text": " so I've linked it below if you wanna check it out.",
+    "words": [
+      {
+        "start": 38.66,
+        "end": 38.94,
+        "word": " so",
+        "probability": 0.4498339593410492
+      },
+      {
+        "start": 38.94,
+        "end": 39.06,
+        "word": " I've",
+        "probability": 0.9581277370452881
+      },
+      {
+        "start": 39.06,
+        "end": 39.2,
+        "word": " linked",
+        "probability": 0.992588222026825
+      },
+      {
+        "start": 39.2,
+        "end": 39.38,
+        "word": " it",
+        "probability": 0.9913630485534668
+      },
+      {
+        "start": 39.38,
+        "end": 39.52,
+        "word": " below",
+        "probability": 0.9991629123687744
+      },
+      {
+        "start": 39.52,
+        "end": 39.72,
+        "word": " if",
+        "probability": 0.9647489786148071
+      },
+      {
+        "start": 39.72,
+        "end": 39.8,
+        "word": " you",
+        "probability": 0.9993522763252258
+      },
+      {
+        "start": 39.8,
+        "end": 39.9,
+        "word": " wanna",
+        "probability": 0.12187588214874268
+      },
+      {
+        "start": 39.9,
+        "end": 40.1,
+        "word": " check",
+        "probability": 0.9986013770103455
+      },
+      {
+        "start": 40.1,
+        "end": 40.22,
+        "word": " it",
+        "probability": 0.9854090809822083
+      },
+      {
+        "start": 40.22,
+        "end": 40.34,
+        "word": " out.",
+        "probability": 0.9965251088142395
+      }
+    ]
+  }
+]

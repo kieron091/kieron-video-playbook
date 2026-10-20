@@ -1,0 +1,1601 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.18,
+    "text": " If you want to completely change your life in 2026, there's three things you need to do.",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.18,
+        "word": " If",
+        "probability": 0.8274385333061218
+      },
+      {
+        "start": 0.18,
+        "end": 0.24,
+        "word": " you",
+        "probability": 0.9942920207977295
+      },
+      {
+        "start": 0.24,
+        "end": 0.36,
+        "word": " want",
+        "probability": 0.8054648041725159
+      },
+      {
+        "start": 0.36,
+        "end": 0.44,
+        "word": " to",
+        "probability": 0.9948086738586426
+      },
+      {
+        "start": 0.44,
+        "end": 0.66,
+        "word": " completely",
+        "probability": 0.9821810722351074
+      },
+      {
+        "start": 0.66,
+        "end": 0.98,
+        "word": " change",
+        "probability": 0.9941552877426147
+      },
+      {
+        "start": 0.98,
+        "end": 1.14,
+        "word": " your",
+        "probability": 0.9835582375526428
+      },
+      {
+        "start": 1.14,
+        "end": 1.24,
+        "word": " life",
+        "probability": 0.9981107711791992
+      },
+      {
+        "start": 1.24,
+        "end": 1.4,
+        "word": " in",
+        "probability": 0.9807555079460144
+      },
+      {
+        "start": 1.4,
+        "end": 2.0,
+        "word": " 2026,",
+        "probability": 0.8392795622348785
+      },
+      {
+        "start": 2.0,
+        "end": 2.26,
+        "word": " there's",
+        "probability": 0.9503635466098785
+      },
+      {
+        "start": 2.26,
+        "end": 2.42,
+        "word": " three",
+        "probability": 0.6917191743850708
+      },
+      {
+        "start": 2.42,
+        "end": 2.66,
+        "word": " things",
+        "probability": 0.9969866871833801
+      },
+      {
+        "start": 2.66,
+        "end": 2.78,
+        "word": " you",
+        "probability": 0.9837408661842346
+      },
+      {
+        "start": 2.78,
+        "end": 2.9,
+        "word": " need",
+        "probability": 0.9985407590866089
+      },
+      {
+        "start": 2.9,
+        "end": 3.04,
+        "word": " to",
+        "probability": 0.9990045428276062
+      },
+      {
+        "start": 3.04,
+        "end": 3.18,
+        "word": " do.",
+        "probability": 0.9978959560394287
+      }
+    ]
+  },
+  {
+    "start": 3.58,
+    "end": 6.94,
+    "text": " Start working out, stop eating junk food, and start reading. When you work on your body,",
+    "words": [
+      {
+        "start": 3.58,
+        "end": 3.62,
+        "word": " Start",
+        "probability": 0.940592348575592
+      },
+      {
+        "start": 3.62,
+        "end": 3.96,
+        "word": " working",
+        "probability": 0.9911119341850281
+      },
+      {
+        "start": 3.96,
+        "end": 4.14,
+        "word": " out,",
+        "probability": 0.994316041469574
+      },
+      {
+        "start": 4.32,
+        "end": 4.48,
+        "word": " stop",
+        "probability": 0.9838314056396484
+      },
+      {
+        "start": 4.48,
+        "end": 4.62,
+        "word": " eating",
+        "probability": 0.985564649105072
+      },
+      {
+        "start": 4.62,
+        "end": 4.86,
+        "word": " junk",
+        "probability": 0.9302980303764343
+      },
+      {
+        "start": 4.86,
+        "end": 5.14,
+        "word": " food,",
+        "probability": 0.9991217255592346
+      },
+      {
+        "start": 5.4,
+        "end": 5.52,
+        "word": " and",
+        "probability": 0.9776815176010132
+      },
+      {
+        "start": 5.52,
+        "end": 5.74,
+        "word": " start",
+        "probability": 0.9940582513809204
+      },
+      {
+        "start": 5.74,
+        "end": 5.96,
+        "word": " reading.",
+        "probability": 0.9911614656448364
+      },
+      {
+        "start": 6.22,
+        "end": 6.24,
+        "word": " When",
+        "probability": 0.9888126850128174
+      },
+      {
+        "start": 6.24,
+        "end": 6.36,
+        "word": " you",
+        "probability": 0.9979658126831055
+      },
+      {
+        "start": 6.36,
+        "end": 6.52,
+        "word": " work",
+        "probability": 0.9862675666809082
+      },
+      {
+        "start": 6.52,
+        "end": 6.68,
+        "word": " on",
+        "probability": 0.9918925762176514
+      },
+      {
+        "start": 6.68,
+        "end": 6.74,
+        "word": " your",
+        "probability": 0.9991055130958557
+      },
+      {
+        "start": 6.74,
+        "end": 6.94,
+        "word": " body,",
+        "probability": 0.9948920011520386
+      }
+    ]
+  },
+  {
+    "start": 7.0,
+    "end": 10.82,
+    "text": " that's a form of self love. When you start loving yourself more, people start respecting you more.",
+    "words": [
+      {
+        "start": 7.0,
+        "end": 7.24,
+        "word": " that's",
+        "probability": 0.9984595775604248
+      },
+      {
+        "start": 7.24,
+        "end": 7.3,
+        "word": " a",
+        "probability": 0.9468221068382263
+      },
+      {
+        "start": 7.3,
+        "end": 7.44,
+        "word": " form",
+        "probability": 0.42322486639022827
+      },
+      {
+        "start": 7.44,
+        "end": 7.62,
+        "word": " of",
+        "probability": 0.9931020736694336
+      },
+      {
+        "start": 7.62,
+        "end": 7.84,
+        "word": " self",
+        "probability": 0.9880738854408264
+      },
+      {
+        "start": 7.84,
+        "end": 8.04,
+        "word": " love.",
+        "probability": 0.5616554021835327
+      },
+      {
+        "start": 8.3,
+        "end": 8.32,
+        "word": " When",
+        "probability": 0.9899397492408752
+      },
+      {
+        "start": 8.32,
+        "end": 8.4,
+        "word": " you",
+        "probability": 0.998440682888031
+      },
+      {
+        "start": 8.4,
+        "end": 8.56,
+        "word": " start",
+        "probability": 0.9955653548240662
+      },
+      {
+        "start": 8.56,
+        "end": 8.84,
+        "word": " loving",
+        "probability": 0.994407057762146
+      },
+      {
+        "start": 8.84,
+        "end": 9.1,
+        "word": " yourself",
+        "probability": 0.9970316886901855
+      },
+      {
+        "start": 9.1,
+        "end": 9.44,
+        "word": " more,",
+        "probability": 0.9916180968284607
+      },
+      {
+        "start": 9.66,
+        "end": 9.8,
+        "word": " people",
+        "probability": 0.9985169768333435
+      },
+      {
+        "start": 9.8,
+        "end": 10.04,
+        "word": " start",
+        "probability": 0.9760034084320068
+      },
+      {
+        "start": 10.04,
+        "end": 10.48,
+        "word": " respecting",
+        "probability": 0.9984791874885559
+      },
+      {
+        "start": 10.48,
+        "end": 10.66,
+        "word": " you",
+        "probability": 0.9866194725036621
+      },
+      {
+        "start": 10.66,
+        "end": 10.82,
+        "word": " more.",
+        "probability": 0.9935848116874695
+      }
+    ]
+  },
+  {
+    "start": 11.04,
+    "end": 14.24,
+    "text": " When you clean up your diet and stop eating junk food, you look better, you feel better,",
+    "words": [
+      {
+        "start": 11.04,
+        "end": 11.08,
+        "word": " When",
+        "probability": 0.993674635887146
+      },
+      {
+        "start": 11.08,
+        "end": 11.2,
+        "word": " you",
+        "probability": 0.9993059635162354
+      },
+      {
+        "start": 11.2,
+        "end": 11.36,
+        "word": " clean",
+        "probability": 0.9984460473060608
+      },
+      {
+        "start": 11.36,
+        "end": 11.56,
+        "word": " up",
+        "probability": 0.9904668927192688
+      },
+      {
+        "start": 11.56,
+        "end": 11.68,
+        "word": " your",
+        "probability": 0.9963619112968445
+      },
+      {
+        "start": 11.68,
+        "end": 11.9,
+        "word": " diet",
+        "probability": 0.997417688369751
+      },
+      {
+        "start": 11.9,
+        "end": 12.06,
+        "word": " and",
+        "probability": 0.792263925075531
+      },
+      {
+        "start": 12.06,
+        "end": 12.2,
+        "word": " stop",
+        "probability": 0.9944822788238525
+      },
+      {
+        "start": 12.2,
+        "end": 12.36,
+        "word": " eating",
+        "probability": 0.9792473912239075
+      },
+      {
+        "start": 12.36,
+        "end": 12.62,
+        "word": " junk",
+        "probability": 0.9995977282524109
+      },
+      {
+        "start": 12.62,
+        "end": 12.88,
+        "word": " food,",
+        "probability": 0.9985217452049255
+      },
+      {
+        "start": 12.88,
+        "end": 13.06,
+        "word": " you",
+        "probability": 0.9971449971199036
+      },
+      {
+        "start": 13.06,
+        "end": 13.22,
+        "word": " look",
+        "probability": 0.9970631003379822
+      },
+      {
+        "start": 13.22,
+        "end": 13.42,
+        "word": " better,",
+        "probability": 0.9980390667915344
+      },
+      {
+        "start": 13.66,
+        "end": 13.78,
+        "word": " you",
+        "probability": 0.9930141568183899
+      },
+      {
+        "start": 13.78,
+        "end": 13.98,
+        "word": " feel",
+        "probability": 0.9984177350997925
+      },
+      {
+        "start": 13.98,
+        "end": 14.24,
+        "word": " better,",
+        "probability": 0.9993557333946228
+      }
+    ]
+  },
+  {
+    "start": 14.38,
+    "end": 18.16,
+    "text": " and you think much more clearly. Just try out for 30 days and see if I'm lying. Now,",
+    "words": [
+      {
+        "start": 14.38,
+        "end": 14.64,
+        "word": " and",
+        "probability": 0.995492696762085
+      },
+      {
+        "start": 14.64,
+        "end": 14.8,
+        "word": " you",
+        "probability": 0.9972267746925354
+      },
+      {
+        "start": 14.8,
+        "end": 15.02,
+        "word": " think",
+        "probability": 0.9977865219116211
+      },
+      {
+        "start": 15.02,
+        "end": 15.26,
+        "word": " much",
+        "probability": 0.9961600303649902
+      },
+      {
+        "start": 15.26,
+        "end": 15.48,
+        "word": " more",
+        "probability": 0.9995443224906921
+      },
+      {
+        "start": 15.48,
+        "end": 15.7,
+        "word": " clearly.",
+        "probability": 0.9986351132392883
+      },
+      {
+        "start": 16.04,
+        "end": 16.12,
+        "word": " Just",
+        "probability": 0.9923037886619568
+      },
+      {
+        "start": 16.12,
+        "end": 16.3,
+        "word": " try",
+        "probability": 0.9459651708602905
+      },
+      {
+        "start": 16.3,
+        "end": 16.38,
+        "word": " out",
+        "probability": 0.5245019793510437
+      },
+      {
+        "start": 16.38,
+        "end": 16.52,
+        "word": " for",
+        "probability": 0.9907586574554443
+      },
+      {
+        "start": 16.52,
+        "end": 16.76,
+        "word": " 30",
+        "probability": 0.9830907583236694
+      },
+      {
+        "start": 16.76,
+        "end": 16.98,
+        "word": " days",
+        "probability": 0.9960935711860657
+      },
+      {
+        "start": 16.98,
+        "end": 17.16,
+        "word": " and",
+        "probability": 0.9277128577232361
+      },
+      {
+        "start": 17.16,
+        "end": 17.24,
+        "word": " see",
+        "probability": 0.9045118093490601
+      },
+      {
+        "start": 17.24,
+        "end": 17.38,
+        "word": " if",
+        "probability": 0.7396751642227173
+      },
+      {
+        "start": 17.38,
+        "end": 17.52,
+        "word": " I'm",
+        "probability": 0.991588681936264
+      },
+      {
+        "start": 17.52,
+        "end": 17.68,
+        "word": " lying.",
+        "probability": 0.994900643825531
+      },
+      {
+        "start": 18.14,
+        "end": 18.16,
+        "word": " Now,",
+        "probability": 0.9867711663246155
+      }
+    ]
+  },
+  {
+    "start": 18.22,
+    "end": 21.02,
+    "text": " reading is going to bring everything full circle. It's going to change how you think,",
+    "words": [
+      {
+        "start": 18.22,
+        "end": 18.4,
+        "word": " reading",
+        "probability": 0.9735246896743774
+      },
+      {
+        "start": 18.4,
+        "end": 18.62,
+        "word": " is",
+        "probability": 0.9874072074890137
+      },
+      {
+        "start": 18.62,
+        "end": 18.74,
+        "word": " going",
+        "probability": 0.7772321105003357
+      },
+      {
+        "start": 18.74,
+        "end": 18.82,
+        "word": " to",
+        "probability": 0.9989849925041199
+      },
+      {
+        "start": 18.82,
+        "end": 18.96,
+        "word": " bring",
+        "probability": 0.9977510571479797
+      },
+      {
+        "start": 18.96,
+        "end": 19.24,
+        "word": " everything",
+        "probability": 0.9953187108039856
+      },
+      {
+        "start": 19.24,
+        "end": 19.62,
+        "word": " full",
+        "probability": 0.9797772765159607
+      },
+      {
+        "start": 19.62,
+        "end": 19.94,
+        "word": " circle.",
+        "probability": 0.9847829937934875
+      },
+      {
+        "start": 20.12,
+        "end": 20.14,
+        "word": " It's",
+        "probability": 0.9952174723148346
+      },
+      {
+        "start": 20.14,
+        "end": 20.26,
+        "word": " going",
+        "probability": 0.9769437909126282
+      },
+      {
+        "start": 20.26,
+        "end": 20.36,
+        "word": " to",
+        "probability": 0.999566376209259
+      },
+      {
+        "start": 20.36,
+        "end": 20.54,
+        "word": " change",
+        "probability": 0.9987157583236694
+      },
+      {
+        "start": 20.54,
+        "end": 20.7,
+        "word": " how",
+        "probability": 0.9976382255554199
+      },
+      {
+        "start": 20.7,
+        "end": 20.84,
+        "word": " you",
+        "probability": 0.9993010759353638
+      },
+      {
+        "start": 20.84,
+        "end": 21.02,
+        "word": " think,",
+        "probability": 0.9984941482543945
+      }
+    ]
+  },
+  {
+    "start": 21.28,
+    "end": 24.86,
+    "text": " your finances, how you feel about yourself, and how you treat other people. There's literally",
+    "words": [
+      {
+        "start": 21.28,
+        "end": 21.34,
+        "word": " your",
+        "probability": 0.9837358593940735
+      },
+      {
+        "start": 21.34,
+        "end": 21.7,
+        "word": " finances,",
+        "probability": 0.9998044371604919
+      },
+      {
+        "start": 22.1,
+        "end": 22.22,
+        "word": " how",
+        "probability": 0.9973410964012146
+      },
+      {
+        "start": 22.22,
+        "end": 22.34,
+        "word": " you",
+        "probability": 0.9992427825927734
+      },
+      {
+        "start": 22.34,
+        "end": 22.5,
+        "word": " feel",
+        "probability": 0.9995225667953491
+      },
+      {
+        "start": 22.5,
+        "end": 22.72,
+        "word": " about",
+        "probability": 0.9986627101898193
+      },
+      {
+        "start": 22.72,
+        "end": 23.0,
+        "word": " yourself,",
+        "probability": 0.9979967474937439
+      },
+      {
+        "start": 23.38,
+        "end": 23.44,
+        "word": " and",
+        "probability": 0.9973028898239136
+      },
+      {
+        "start": 23.44,
+        "end": 23.56,
+        "word": " how",
+        "probability": 0.9993801116943359
+      },
+      {
+        "start": 23.56,
+        "end": 23.68,
+        "word": " you",
+        "probability": 0.9991711378097534
+      },
+      {
+        "start": 23.68,
+        "end": 23.8,
+        "word": " treat",
+        "probability": 0.9991239905357361
+      },
+      {
+        "start": 23.8,
+        "end": 24.0,
+        "word": " other",
+        "probability": 0.9986299276351929
+      },
+      {
+        "start": 24.0,
+        "end": 24.32,
+        "word": " people.",
+        "probability": 0.9998886585235596
+      },
+      {
+        "start": 24.54,
+        "end": 24.72,
+        "word": " There's",
+        "probability": 0.988427072763443
+      },
+      {
+        "start": 24.72,
+        "end": 24.86,
+        "word": " literally",
+        "probability": 0.9969732761383057
+      }
+    ]
+  },
+  {
+    "start": 24.86,
+    "end": 29.1,
+    "text": " five books that I swear by that change my life. I guarantee you, any problem that you have will",
+    "words": [
+      {
+        "start": 24.86,
+        "end": 25.24,
+        "word": " five",
+        "probability": 0.9034102559089661
+      },
+      {
+        "start": 25.24,
+        "end": 25.48,
+        "word": " books",
+        "probability": 0.9903708100318909
+      },
+      {
+        "start": 25.48,
+        "end": 25.64,
+        "word": " that",
+        "probability": 0.9391490817070007
+      },
+      {
+        "start": 25.64,
+        "end": 25.72,
+        "word": " I",
+        "probability": 0.8975168466567993
+      },
+      {
+        "start": 25.72,
+        "end": 25.88,
+        "word": " swear",
+        "probability": 0.9927366971969604
+      },
+      {
+        "start": 25.88,
+        "end": 26.12,
+        "word": " by",
+        "probability": 0.5455731749534607
+      },
+      {
+        "start": 26.12,
+        "end": 26.28,
+        "word": " that",
+        "probability": 0.979060709476471
+      },
+      {
+        "start": 26.28,
+        "end": 26.44,
+        "word": " change",
+        "probability": 0.793657660484314
+      },
+      {
+        "start": 26.44,
+        "end": 26.7,
+        "word": " my",
+        "probability": 0.9551226496696472
+      },
+      {
+        "start": 26.7,
+        "end": 26.84,
+        "word": " life.",
+        "probability": 0.9997453093528748
+      },
+      {
+        "start": 27.14,
+        "end": 27.16,
+        "word": " I",
+        "probability": 0.5531265139579773
+      },
+      {
+        "start": 27.16,
+        "end": 27.5,
+        "word": " guarantee",
+        "probability": 0.9704859852790833
+      },
+      {
+        "start": 27.5,
+        "end": 27.94,
+        "word": " you,",
+        "probability": 0.9959264993667603
+      },
+      {
+        "start": 27.94,
+        "end": 28.12,
+        "word": " any",
+        "probability": 0.9964048862457275
+      },
+      {
+        "start": 28.12,
+        "end": 28.4,
+        "word": " problem",
+        "probability": 0.9917199611663818
+      },
+      {
+        "start": 28.4,
+        "end": 28.6,
+        "word": " that",
+        "probability": 0.9925922155380249
+      },
+      {
+        "start": 28.6,
+        "end": 28.74,
+        "word": " you",
+        "probability": 0.9993208646774292
+      },
+      {
+        "start": 28.74,
+        "end": 28.92,
+        "word": " have",
+        "probability": 0.9982581734657288
+      },
+      {
+        "start": 28.92,
+        "end": 29.1,
+        "word": " will",
+        "probability": 0.9754033088684082
+      }
+    ]
+  },
+  {
+    "start": 29.1,
+    "end": 33.98,
+    "text": " be solved in one of these books. Money issues, relationships, confidence, you name it. In here.",
+    "words": [
+      {
+        "start": 29.1,
+        "end": 29.22,
+        "word": " be",
+        "probability": 0.14775702357292175
+      },
+      {
+        "start": 29.22,
+        "end": 29.46,
+        "word": " solved",
+        "probability": 0.969261109828949
+      },
+      {
+        "start": 29.46,
+        "end": 29.7,
+        "word": " in",
+        "probability": 0.9890573620796204
+      },
+      {
+        "start": 29.7,
+        "end": 29.84,
+        "word": " one",
+        "probability": 0.9923118948936462
+      },
+      {
+        "start": 29.84,
+        "end": 29.96,
+        "word": " of",
+        "probability": 0.998097836971283
+      },
+      {
+        "start": 29.96,
+        "end": 30.08,
+        "word": " these",
+        "probability": 0.9943793416023254
+      },
+      {
+        "start": 30.08,
+        "end": 30.32,
+        "word": " books.",
+        "probability": 0.9966745376586914
+      },
+      {
+        "start": 30.7,
+        "end": 30.82,
+        "word": " Money",
+        "probability": 0.9215326905250549
+      },
+      {
+        "start": 30.82,
+        "end": 31.06,
+        "word": " issues,",
+        "probability": 0.9581995606422424
+      },
+      {
+        "start": 31.28,
+        "end": 31.78,
+        "word": " relationships,",
+        "probability": 0.996698796749115
+      },
+      {
+        "start": 32.28,
+        "end": 32.42,
+        "word": " confidence,",
+        "probability": 0.9901671409606934
+      },
+      {
+        "start": 32.76,
+        "end": 32.84,
+        "word": " you",
+        "probability": 0.9925196170806885
+      },
+      {
+        "start": 32.84,
+        "end": 33.04,
+        "word": " name",
+        "probability": 0.995273768901825
+      },
+      {
+        "start": 33.04,
+        "end": 33.28,
+        "word": " it.",
+        "probability": 0.9948585033416748
+      },
+      {
+        "start": 33.7,
+        "end": 33.8,
+        "word": " In",
+        "probability": 0.9806641340255737
+      },
+      {
+        "start": 33.8,
+        "end": 33.98,
+        "word": " here.",
+        "probability": 0.9043060541152954
+      }
+    ]
+  },
+  {
+    "start": 34.48,
+    "end": 38.44,
+    "text": " This one will solve your money issues. This one is for confidence and being your authentic self.",
+    "words": [
+      {
+        "start": 34.48,
+        "end": 34.54,
+        "word": " This",
+        "probability": 0.9430911540985107
+      },
+      {
+        "start": 34.54,
+        "end": 34.72,
+        "word": " one",
+        "probability": 0.977191686630249
+      },
+      {
+        "start": 34.72,
+        "end": 34.78,
+        "word": " will",
+        "probability": 0.6436089873313904
+      },
+      {
+        "start": 34.78,
+        "end": 35.0,
+        "word": " solve",
+        "probability": 0.9985675811767578
+      },
+      {
+        "start": 35.0,
+        "end": 35.14,
+        "word": " your",
+        "probability": 0.9939671754837036
+      },
+      {
+        "start": 35.14,
+        "end": 35.34,
+        "word": " money",
+        "probability": 0.9929423332214355
+      },
+      {
+        "start": 35.34,
+        "end": 35.64,
+        "word": " issues.",
+        "probability": 0.9959891438484192
+      },
+      {
+        "start": 36.44,
+        "end": 36.5,
+        "word": " This",
+        "probability": 0.9971206188201904
+      },
+      {
+        "start": 36.5,
+        "end": 36.7,
+        "word": " one",
+        "probability": 0.9956973791122437
+      },
+      {
+        "start": 36.7,
+        "end": 36.82,
+        "word": " is",
+        "probability": 0.9742242097854614
+      },
+      {
+        "start": 36.82,
+        "end": 36.92,
+        "word": " for",
+        "probability": 0.9803712964057922
+      },
+      {
+        "start": 36.92,
+        "end": 37.24,
+        "word": " confidence",
+        "probability": 0.9984758496284485
+      },
+      {
+        "start": 37.24,
+        "end": 37.52,
+        "word": " and",
+        "probability": 0.861088752746582
+      },
+      {
+        "start": 37.52,
+        "end": 37.64,
+        "word": " being",
+        "probability": 0.8497892022132874
+      },
+      {
+        "start": 37.64,
+        "end": 37.82,
+        "word": " your",
+        "probability": 0.958528459072113
+      },
+      {
+        "start": 37.82,
+        "end": 38.1,
+        "word": " authentic",
+        "probability": 0.991211473941803
+      },
+      {
+        "start": 38.1,
+        "end": 38.44,
+        "word": " self.",
+        "probability": 0.9971104860305786
+      }
+    ]
+  },
+  {
+    "start": 39.16,
+    "end": 43.62,
+    "text": " This one's to stop people pleasing. This one's for your brain and overthinking.",
+    "words": [
+      {
+        "start": 39.16,
+        "end": 39.52,
+        "word": " This",
+        "probability": 0.9946995973587036
+      },
+      {
+        "start": 39.52,
+        "end": 39.74,
+        "word": " one's",
+        "probability": 0.7545309364795685
+      },
+      {
+        "start": 39.74,
+        "end": 39.82,
+        "word": " to",
+        "probability": 0.9920841455459595
+      },
+      {
+        "start": 39.82,
+        "end": 40.0,
+        "word": " stop",
+        "probability": 0.9958641529083252
+      },
+      {
+        "start": 40.0,
+        "end": 40.56,
+        "word": " people",
+        "probability": 0.9836097955703735
+      },
+      {
+        "start": 40.56,
+        "end": 40.88,
+        "word": " pleasing.",
+        "probability": 0.7847239375114441
+      },
+      {
+        "start": 41.66,
+        "end": 41.84,
+        "word": " This",
+        "probability": 0.9973641037940979
+      },
+      {
+        "start": 41.84,
+        "end": 42.14,
+        "word": " one's",
+        "probability": 0.9688215553760529
+      },
+      {
+        "start": 42.14,
+        "end": 42.26,
+        "word": " for",
+        "probability": 0.9980942606925964
+      },
+      {
+        "start": 42.26,
+        "end": 42.36,
+        "word": " your",
+        "probability": 0.9978848099708557
+      },
+      {
+        "start": 42.36,
+        "end": 42.7,
+        "word": " brain",
+        "probability": 0.9989215135574341
+      },
+      {
+        "start": 42.7,
+        "end": 42.98,
+        "word": " and",
+        "probability": 0.969417929649353
+      },
+      {
+        "start": 42.98,
+        "end": 43.62,
+        "word": " overthinking.",
+        "probability": 0.6332462728023529
+      }
+    ]
+  },
+  {
+    "start": 44.58,
+    "end": 48.58,
+    "text": " This one is for your all your bad habits. Usually, all of this will cost over 100 pounds.",
+    "words": [
+      {
+        "start": 44.58,
+        "end": 44.72,
+        "word": " This",
+        "probability": 0.9968442916870117
+      },
+      {
+        "start": 44.72,
+        "end": 44.92,
+        "word": " one",
+        "probability": 0.9978464841842651
+      },
+      {
+        "start": 44.92,
+        "end": 45.14,
+        "word": " is",
+        "probability": 0.9887385368347168
+      },
+      {
+        "start": 45.14,
+        "end": 45.3,
+        "word": " for",
+        "probability": 0.9982041120529175
+      },
+      {
+        "start": 45.3,
+        "end": 45.48,
+        "word": " your",
+        "probability": 0.6425065398216248
+      },
+      {
+        "start": 45.48,
+        "end": 45.7,
+        "word": " all",
+        "probability": 0.7910330295562744
+      },
+      {
+        "start": 45.7,
+        "end": 45.84,
+        "word": " your",
+        "probability": 0.9407613277435303
+      },
+      {
+        "start": 45.84,
+        "end": 46.06,
+        "word": " bad",
+        "probability": 0.9974578022956848
+      },
+      {
+        "start": 46.06,
+        "end": 46.32,
+        "word": " habits.",
+        "probability": 0.9994949102401733
+      },
+      {
+        "start": 46.8,
+        "end": 47.04,
+        "word": " Usually,",
+        "probability": 0.9965866804122925
+      },
+      {
+        "start": 47.06,
+        "end": 47.3,
+        "word": " all",
+        "probability": 0.9971189498901367
+      },
+      {
+        "start": 47.3,
+        "end": 47.4,
+        "word": " of",
+        "probability": 0.9087857007980347
+      },
+      {
+        "start": 47.4,
+        "end": 47.5,
+        "word": " this",
+        "probability": 0.9807736277580261
+      },
+      {
+        "start": 47.5,
+        "end": 47.6,
+        "word": " will",
+        "probability": 0.9726616740226746
+      },
+      {
+        "start": 47.6,
+        "end": 47.78,
+        "word": " cost",
+        "probability": 0.996091902256012
+      },
+      {
+        "start": 47.78,
+        "end": 47.98,
+        "word": " over",
+        "probability": 0.9968677163124084
+      },
+      {
+        "start": 47.98,
+        "end": 48.32,
+        "word": " 100",
+        "probability": 0.2891460061073303
+      },
+      {
+        "start": 48.32,
+        "end": 48.58,
+        "word": " pounds.",
+        "probability": 0.5872768759727478
+      }
+    ]
+  },
+  {
+    "start": 48.86,
+    "end": 51.84,
+    "text": " I'm going to leave a link down there where you can get all of these for like 20 pounds.",
+    "words": [
+      {
+        "start": 48.86,
+        "end": 48.9,
+        "word": " I'm",
+        "probability": 0.9972709119319916
+      },
+      {
+        "start": 48.9,
+        "end": 49.0,
+        "word": " going",
+        "probability": 0.515550434589386
+      },
+      {
+        "start": 49.0,
+        "end": 49.08,
+        "word": " to",
+        "probability": 0.9969311952590942
+      },
+      {
+        "start": 49.08,
+        "end": 49.22,
+        "word": " leave",
+        "probability": 0.9991650581359863
+      },
+      {
+        "start": 49.22,
+        "end": 49.32,
+        "word": " a",
+        "probability": 0.9857404828071594
+      },
+      {
+        "start": 49.32,
+        "end": 49.48,
+        "word": " link",
+        "probability": 0.9994180202484131
+      },
+      {
+        "start": 49.48,
+        "end": 49.68,
+        "word": " down",
+        "probability": 0.9913569688796997
+      },
+      {
+        "start": 49.68,
+        "end": 49.84,
+        "word": " there",
+        "probability": 0.9143435955047607
+      },
+      {
+        "start": 49.84,
+        "end": 50.02,
+        "word": " where",
+        "probability": 0.9415411353111267
+      },
+      {
+        "start": 50.02,
+        "end": 50.08,
+        "word": " you",
+        "probability": 0.9956647753715515
+      },
+      {
+        "start": 50.08,
+        "end": 50.2,
+        "word": " can",
+        "probability": 0.9968202114105225
+      },
+      {
+        "start": 50.2,
+        "end": 50.32,
+        "word": " get",
+        "probability": 0.995246946811676
+      },
+      {
+        "start": 50.32,
+        "end": 50.48,
+        "word": " all",
+        "probability": 0.9984111785888672
+      },
+      {
+        "start": 50.48,
+        "end": 50.6,
+        "word": " of",
+        "probability": 0.8770652413368225
+      },
+      {
+        "start": 50.6,
+        "end": 50.84,
+        "word": " these",
+        "probability": 0.9909251928329468
+      },
+      {
+        "start": 50.84,
+        "end": 51.18,
+        "word": " for",
+        "probability": 0.9745984077453613
+      },
+      {
+        "start": 51.18,
+        "end": 51.3,
+        "word": " like",
+        "probability": 0.9061331152915955
+      },
+      {
+        "start": 51.3,
+        "end": 51.58,
+        "word": " 20",
+        "probability": 0.8264315724372864
+      },
+      {
+        "start": 51.58,
+        "end": 51.84,
+        "word": " pounds.",
+        "probability": 0.9822437167167664
+      }
+    ]
+  },
+  {
+    "start": 52.34,
+    "end": 56.1,
+    "text": " I have no idea how long it's going to last for. All I want you to do is pass this on to somebody",
+    "words": [
+      {
+        "start": 52.34,
+        "end": 52.42,
+        "word": " I",
+        "probability": 0.9955348968505859
+      },
+      {
+        "start": 52.42,
+        "end": 52.56,
+        "word": " have",
+        "probability": 0.9982210993766785
+      },
+      {
+        "start": 52.56,
+        "end": 52.76,
+        "word": " no",
+        "probability": 0.9989689588546753
+      },
+      {
+        "start": 52.76,
+        "end": 53.06,
+        "word": " idea",
+        "probability": 0.9995803236961365
+      },
+      {
+        "start": 53.06,
+        "end": 53.26,
+        "word": " how",
+        "probability": 0.9965922236442566
+      },
+      {
+        "start": 53.26,
+        "end": 53.4,
+        "word": " long",
+        "probability": 0.9994634985923767
+      },
+      {
+        "start": 53.4,
+        "end": 53.5,
+        "word": " it's",
+        "probability": 0.9763180911540985
+      },
+      {
+        "start": 53.5,
+        "end": 53.62,
+        "word": " going",
+        "probability": 0.8942570686340332
+      },
+      {
+        "start": 53.62,
+        "end": 53.72,
+        "word": " to",
+        "probability": 0.999476969242096
+      },
+      {
+        "start": 53.72,
+        "end": 53.9,
+        "word": " last",
+        "probability": 0.9992127418518066
+      },
+      {
+        "start": 53.9,
+        "end": 54.18,
+        "word": " for.",
+        "probability": 0.9623333811759949
+      },
+      {
+        "start": 54.36,
+        "end": 54.54,
+        "word": " All",
+        "probability": 0.963043749332428
+      },
+      {
+        "start": 54.54,
+        "end": 54.66,
+        "word": " I",
+        "probability": 0.900076150894165
+      },
+      {
+        "start": 54.66,
+        "end": 54.8,
+        "word": " want",
+        "probability": 0.9980025887489319
+      },
+      {
+        "start": 54.8,
+        "end": 54.92,
+        "word": " you",
+        "probability": 0.9939265847206116
+      },
+      {
+        "start": 54.92,
+        "end": 55.04,
+        "word": " to",
+        "probability": 0.9334979057312012
+      },
+      {
+        "start": 55.04,
+        "end": 55.14,
+        "word": " do",
+        "probability": 0.9944944977760315
+      },
+      {
+        "start": 55.14,
+        "end": 55.22,
+        "word": " is",
+        "probability": 0.9867890477180481
+      },
+      {
+        "start": 55.22,
+        "end": 55.42,
+        "word": " pass",
+        "probability": 0.9322554469108582
+      },
+      {
+        "start": 55.42,
+        "end": 55.62,
+        "word": " this",
+        "probability": 0.9595937132835388
+      },
+      {
+        "start": 55.62,
+        "end": 55.72,
+        "word": " on",
+        "probability": 0.6619756817817688
+      },
+      {
+        "start": 55.72,
+        "end": 55.84,
+        "word": " to",
+        "probability": 0.9637385606765747
+      },
+      {
+        "start": 55.84,
+        "end": 56.1,
+        "word": " somebody",
+        "probability": 0.9895190596580505
+      }
+    ]
+  },
+  {
+    "start": 56.1,
+    "end": 57.64,
+    "text": " else that needs to see it. Peace and love.",
+    "words": [
+      {
+        "start": 56.1,
+        "end": 56.3,
+        "word": " else",
+        "probability": 0.2999967634677887
+      },
+      {
+        "start": 56.3,
+        "end": 56.4,
+        "word": " that",
+        "probability": 0.8661972880363464
+      },
+      {
+        "start": 56.4,
+        "end": 56.5,
+        "word": " needs",
+        "probability": 0.9691672921180725
+      },
+      {
+        "start": 56.5,
+        "end": 56.64,
+        "word": " to",
+        "probability": 0.9970453381538391
+      },
+      {
+        "start": 56.64,
+        "end": 56.8,
+        "word": " see",
+        "probability": 0.9923041462898254
+      },
+      {
+        "start": 56.8,
+        "end": 56.92,
+        "word": " it.",
+        "probability": 0.8967487812042236
+      },
+      {
+        "start": 57.26,
+        "end": 57.36,
+        "word": " Peace",
+        "probability": 0.9800897836685181
+      },
+      {
+        "start": 57.36,
+        "end": 57.52,
+        "word": " and",
+        "probability": 0.9477197527885437
+      },
+      {
+        "start": 57.52,
+        "end": 57.64,
+        "word": " love.",
+        "probability": 0.7754238843917847
+      }
+    ]
+  }
+]
